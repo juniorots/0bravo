@@ -29,5 +29,5 @@ app.use('/', index);
  
  
 // LISTEN (iniciando nossa aplicação em node) ==========
-app.listen(8086);
-console.log("Server listening on 8086");
+app.listen(8282);
+console.log("Server listening on 8282");
